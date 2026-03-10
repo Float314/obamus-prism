@@ -1,0 +1,22 @@
+{
+	"geode": "5.0.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "cyphrixz.obamus-prism-mod",
+	"name": "Obamus Prism Mod",
+	"version": "v1.0.0",
+	"developer": "cyphrixz",
+	"description": "Love Obama forever!",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	},
+	"resources": {
+		"sprites": [
+			"res/*.png"
+		]
+	}
+}
