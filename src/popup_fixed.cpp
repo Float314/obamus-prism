@@ -25,7 +25,7 @@ public:
             m_mainLayer->addChildAtPosition(obamaSpr, geode::Anchor::Center);
         }
 
-        auto label = CCLabelBMFont::create("Obama", "bigFont.fnt");
+        auto label = CCLabelBMFont::create("Barrack Obama :)", "bigFont.fnt");
         if (label) {
             label->setPosition({190.f, 200.f});
             m_mainLayer->addChild(label);
