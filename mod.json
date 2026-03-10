@@ -18,5 +18,8 @@
 		"sprites": [
 			"res/*.png"
 		]
+	},
+	"links": {
+		"source": "https://github.com/Float314/obamus-prism"
 	}
 }
