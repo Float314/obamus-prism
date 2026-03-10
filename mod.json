@@ -17,6 +17,10 @@
 	"resources": {
 		"sprites": [
 			"res/*.png"
+		],
+		"files": [
+			"res/*.ogg",
+			"res/ohd.ogg"
 		]
 	},
 	"links": {
