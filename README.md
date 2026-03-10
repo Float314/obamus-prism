@@ -16,3 +16,4 @@ Made in Pune™
 Although my (GD) name is Cyphrixz, my real (Discord) Username is @float_3.14159 
 Geode approvers who want to contact me, pls DM. 
 
+Also, if you have any issues, pls (dont) DM me, and ill may (not) solve ur issue :)
