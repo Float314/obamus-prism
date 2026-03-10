@@ -11,3 +11,8 @@ He is widely known for his speeches and efforts to promote unity and change.
 Made by Cyphrixz.
 Made in Pune™
 
+# Contact
+
+Although my (GD) name is Cyphrixz, my real (Discord) Username is @float_3.14159 
+Geode approvers who want to contact me, pls DM. 
+
